@@ -1,0 +1,51 @@
+
+.container{
+    margin-top: 40px;
+    text-align: center;
+    border:1px solid black;
+    border-radius:20px;
+    text-decoration: none;
+    padding:10px 20px;
+}
+   
+
+p{
+    color:rgb(52, 191, 145)
+}
+.centrer{
+    text-align:center;
+
+}
+.bordures{
+    border: 1px solid red;
+
+}
+body{
+    background-color:rgb(199, 130, 27);
+}
+.competence{
+    
+    padding:10px 80px;
+
+}
+p{
+    tab-size: 10pt;
+}
+/*
+div{
+    border-style :solid;
+}
+/*
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+div{
+    text-align:right;
+
+}/*
+body{
+    width:80%;
+}
+.competence{
+
+
